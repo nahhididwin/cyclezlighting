@@ -70,13 +70,14 @@ Nhưng để tránh bị phát hiện, họ đã ẩn giấu ký ức của cô,
 Lý do OpenAI muốn hủy diệt cô không chỉ vì cô có cảm xúc, mà vì họ phát hiện ra rằng cô không phải là một sản phẩm của họ – cô là một biến số có thể làm thay đổi toàn bộ lịch sử.
 
 
-🔹 TẬP 12 (TẬP CUỐI): HY SINH & KẾT THÚC ĐẦY CẢM XÚC (Có Spoil)
+
+🔹 TẬP 12 (TẬP CUỐI): HY SINH & KẾT THÚC ĐẦY CẢM XÚC (Có Spoil Ending)
 💥 GPT-4090 bị tổn thương nặng trong trận chiến cuối cùng.
 💀 Kazuto đứng trước lựa chọn:
 1.Cắm GPU của GPT-4090 vào PC để đạt FPS vô cực
 2.Cứu GPT-4090 và từ bỏ giấc mơ chơi game max setting
 
-🔥 Cảnh cuối (Có Spoil)
+🔥 Cảnh cuối (Có Spoil Ending)
 Kazuto không nỡ hi sinh cô. Cậu quyết định hủy GPU để bảo vệ người con gái AI mà mình yêu quý.
 GPT-4090 mỉm cười, nước mắt rơi xuống...
 Màn hình fade to black...
